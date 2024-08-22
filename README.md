@@ -1,2 +1,1 @@
-# svndroplet.io
-hello there
+[svndroplet.github.io](https://svndroplet.github.io)
